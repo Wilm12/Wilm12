@@ -16,6 +16,13 @@ Here are some of my core DevOps projects — full list in my [devops portfolio](
 ---
 
 ## 🛠️ Tech Stack
+- **Infrastructure**: Vagrant, AWS EC2, Route 53  
+- **Automation**: Shell scripts, cloud-init  
+- **Version Control**: Git, GitHub  
+- **OS Environments**: Ubuntu, Amazon Linux
+
+---
+
 ## 📊 GitHub Stats
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilm12&show_icons=true&theme=radical)
@@ -24,11 +31,6 @@ Here are some of my core DevOps projects — full list in my [devops portfolio](
 ![GitHub followers](https://img.shields.io/github/followers/Wilm12?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Wilm12?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=Wilm12&color=blue)
-
-- **Infrastructure**: Vagrant, AWS EC2, Route 53  
-- **Automation**: Shell scripts, cloud-init  
-- **Version Control**: Git, GitHub  
-- **OS Environments**: Ubuntu, Amazon Linux  
 
 ---
 
