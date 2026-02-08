@@ -1,4 +1,4 @@
-# Hi, I'm Will 👋
+# Hi, I'm William👋
 
 🚀 Aspiring DevOps Engineer | AWS & Automation Enthusiast  
 🔧 Focused on building scalable, reproducible infrastructure projects  
@@ -17,7 +17,7 @@ Here are some of my core DevOps projects — full list in my [devops portfolio](
 
 ## 🛠️ Tech Stack
 - **Infrastructure**: Vagrant, AWS EC2, Route 53  
-- **Automation**: Shell scripts, cloud-init, YAML configs  
+- **Automation**: Shell scripts, cloud-init  
 - **Version Control**: Git, GitHub  
 - **OS Environments**: Ubuntu, Amazon Linux  
 
@@ -32,5 +32,7 @@ Here are some of my core DevOps projects — full list in my [devops portfolio](
 ---
 
 ## 📫 Connect
-- 💼 [LinkedIn](#) (add your link here)  
+- 💼 [LinkedIn](#) (www.linkedin.com/in/
+william-mabelane-bb4658120
+)  
 - 📝 [Portfolio Index](https://github.com/Wilm12/devops)  
