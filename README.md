@@ -2,7 +2,7 @@
 
 🚀 Aspiring DevOps Engineer | AWS & Automation Enthusiast  
 🔧 Focused on building scalable, reproducible infrastructure projects  
-📚 Documenting lessons learned, workflows, and recruiter‑friendly portfolios  
+📚 Documenting lessons learned, workflows, and production‑friendly portfolios  
 
 ---
 
