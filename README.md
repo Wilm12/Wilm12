@@ -9,6 +9,7 @@
 ## 🌟 Featured Projects
 Here are some of my core DevOps projects — full list in my [devops portfolio](https://github.com/Wilm12/devops):
 
+- [Sundowns WPA Platform](https://github.com/Wilm12/Sundowns_app) → Production-style Django membership platform deployed on AWS EC2 using Docker, Nginx, Gunicorn, PostgreSQL, Redis,    GitHub Actions CI/CD, health monitoring, automated backups, and centralized logging.
 - [vprofile-app](https://github.com/Wilm12/vprofile-app) → Sample app used to demonstrate repo separation, automation, and CI/CD readiness.  
 - [vagrant-project](https://github.com/Wilm12/vagrant-project) → Multi‑VM Vagrant environment with automated provisioning.  
 - [AWS-deployment](https://github.com/Wilm12/AWS-deployment) → Cloud automation with EC2, Route 53, and cloud-init.  
