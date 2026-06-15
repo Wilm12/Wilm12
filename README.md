@@ -1,6 +1,6 @@
 # Hi, I'm William 👋
 
-🚀 Junior DevOps & Cloud Engineer
+🚀 DevOps & Cloud Engineer
 
 I enjoy building and operating production-style systems that combine software development, infrastructure, automation, and cloud technologies.
 
