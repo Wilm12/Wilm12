@@ -10,7 +10,7 @@ My focus is on learning through hands-on projects, documenting the journey, and 
 
 ## 🌟 Featured Projects
 
-### ⚽ Sundowns WPA Platform
+### ⚽ Branchroute Platform
 
 Production-deployed supporter membership, ticketing, and transport coordination platform.
 
@@ -30,7 +30,7 @@ Production-deployed supporter membership, ticketing, and transport coordination 
 
 🔗 Repository: https://github.com/Wilm12/Sundowns_app
 
-🔗 Live Demo: https://sundownswpa.duckdns.org/
+🔗 Live Demo: https://branchroute.duckdns.org/
 
 ---
 
