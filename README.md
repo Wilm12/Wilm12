@@ -4,7 +4,7 @@
 
 I'm interested in building systems that solve practical problems, improve operations and create measurable value.
 
-My background is in software engineering, with experience from hands-on projects involving Python, backend development, Linux, infrastructure provisioning, cloud deployment and automation.
+My background is in software engineering, with hands-on project experience involving Python, backend development, Linux, infrastructure provisioning, cloud deployment and automation.
 
 I enjoy understanding how applications, infrastructure and interconnected services work together, and I'm particularly interested in DevOps, Cloud Engineering and Platform Engineering.
 
@@ -12,9 +12,9 @@ I enjoy understanding how applications, infrastructure and interconnected servic
 
 ## 🚀 Featured Projects
 
-### ☁️ AWS Automated Application Deployment and Scaling
+### ☁️ AWS Automated Application Deployment and Auto Scaling
 
-A multi-tier Java application deployment on AWS, demonstrating cloud infrastructure, artifact management, load balancing and automatic scaling.
+A multi-tier Java application deployment on AWS, demonstrating cloud infrastructure, application deployment, artifact management, load balancing and automatic scaling.
 
 **Highlights:**
 - EC2 application and backend instances
@@ -22,10 +22,12 @@ A multi-tier Java application deployment on AWS, demonstrating cloud infrastruct
 - Auto Scaling Groups
 - Amazon S3 application artifact storage
 - Route 53 private DNS
-- Maven and Bash deployment automation
+- Maven build and Bash deployment scripts
 - Apache Tomcat
 
-**Verified:** Successfully deployed and used the application through the load balancer, and tested Auto Scaling behaviour.
+**Verified:** Successfully built and deployed the application, accessed it through the load balancer, and tested Auto Scaling behaviour.
+
+**Automation scope:** Bash scripts automate application packaging, artifact upload to S3 and deployment to EC2. Infrastructure provisioning was configured separately.
 
 [View project →](https://github.com/Wilm12/AWS-deployment)
 
@@ -51,14 +53,14 @@ A five-VM infrastructure environment demonstrating manual and automated provisio
 
 A Django-based platform designed to support football branch operations, membership management, ticket bookings and transport coordination.
 
-**Highlights:**
+**Technical contributions:**
 - Python, Django and Django REST Framework
-- PostgreSQL and Redis
+- PostgreSQL and Redis integration
 - Docker and Docker Compose
-- Nginx and Gunicorn
+- Nginx and Gunicorn configuration
 - AWS EC2 deployment
-- GitHub Actions CI/CD
-- Application monitoring and automated backups
+- GitHub Actions deployment workflow using SSH and Docker Compose
+- Prometheus and Grafana infrastructure monitoring, with metrics successfully collected and visualised
 
 The platform is currently offline while its architecture is being revised.
 
@@ -77,7 +79,8 @@ The platform is currently offline while its architecture is being revised.
 | Web Infrastructure | Nginx, Apache Tomcat, Gunicorn |
 | Backend Development | Python, Django, Django REST Framework |
 | Databases & Messaging | PostgreSQL, MariaDB, Redis, Memcached, RabbitMQ |
-| Build & CI/CD | Maven, Git, GitHub Actions |
+| Build & Version Control | Maven, Git, GitHub Actions |
+| Monitoring | Prometheus, Grafana |
 
 ---
 
