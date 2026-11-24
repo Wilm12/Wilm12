@@ -1,168 +1,103 @@
 # Hi, I'm William 👋
 
-🚀 DevOps & Cloud Engineer
+**Software Engineering | DevOps & Cloud | Python, Automation & Systems**
 
-I enjoy building and operating production-style systems that combine software development, infrastructure, automation, and cloud technologies.
+I'm interested in building systems that solve practical problems, improve operations and create measurable value.
 
-My focus is on learning through hands-on projects, documenting the journey, and applying real-world DevOps practices including containerization, CI/CD, Linux administration, cloud deployment, monitoring, and infrastructure operations.
+My background is in software engineering, with experience from hands-on projects involving Python, backend development, Linux, infrastructure provisioning, cloud deployment and automation.
 
----
-
-## 🌟 Featured Projects
-
-### ⚽ Branchroute Platform
-
-Production-deployed supporter membership, ticketing, and transport coordination platform.
-
-**Highlights**
-
-* Django & Django REST Framework
-* PostgreSQL
-* Redis
-* Docker & Docker Compose
-* Nginx Reverse Proxy
-* Gunicorn
-* AWS EC2
-* HTTPS with Let's Encrypt
-* GitHub Actions CI/CD
-* Automated backups
-* Health monitoring
-
-🔗 Repository: https://github.com/Wilm12/Sundowns_app
-
-🔗 Live Demo: https://branchroute.duckdns.org/
+I enjoy understanding how applications, infrastructure and interconnected services work together, and I'm particularly interested in DevOps, Cloud Engineering and Platform Engineering.
 
 ---
 
-### ☁️ AWS Deployment Labs
+## 🚀 Featured Projects
 
-Hands-on cloud deployment exercises covering:
+### ☁️ AWS Automated Application Deployment and Scaling
 
-* EC2 provisioning
-* Route 53 DNS management
-* cloud-init automation
-* Linux server configuration
-* application deployment
+A multi-tier Java application deployment on AWS, demonstrating cloud infrastructure, artifact management, load balancing and automatic scaling.
 
-🔗 Repository: https://github.com/Wilm12/AWS-deployment
+**Highlights:**
+- EC2 application and backend instances
+- Application Load Balancer
+- Auto Scaling Groups
+- Amazon S3 application artifact storage
+- Route 53 private DNS
+- Maven and Bash deployment automation
+- Apache Tomcat
 
----
+**Verified:** Successfully deployed and used the application through the load balancer, and tested Auto Scaling behaviour.
 
-### 🖥️ Vagrant Multi-VM Environment
+[View project →](https://github.com/Wilm12/AWS-deployment)
 
-Infrastructure lab focused on local environment automation and provisioning.
+### 🖥️ Multi-Tier Infrastructure with Vagrant
 
-**Technologies**
+A five-VM infrastructure environment demonstrating manual and automated provisioning of services using Vagrant, VirtualBox and Bash.
 
-* Vagrant
-* VirtualBox
-* Shell scripting
-* Ubuntu Linux
+**Highlights:**
+- Multi-VM infrastructure provisioning
+- Automated Bash provisioning scripts
+- Nginx reverse proxy
+- Apache Tomcat
+- MariaDB
+- Memcached
+- RabbitMQ
+- Linux administration
 
-🔗 Repository: https://github.com/Wilm12/vagrant-project
+**Verified:** Successfully deployed and used the VProfile application through Nginx and Tomcat.
 
----
+[View project →](https://github.com/Wilm12/vagrant-project)
 
-### 🔧 DevOps Portfolio Index
+### ⚽ BranchRoute — Supporter Operations Platform
 
-Central portfolio repository containing:
+A Django-based platform designed to support football branch operations, membership management, ticket bookings and transport coordination.
 
-* project documentation
-* architecture diagrams
-* deployment guides
-* infrastructure notes
-* DevOps learning roadmap
+**Highlights:**
+- Python, Django and Django REST Framework
+- PostgreSQL and Redis
+- Docker and Docker Compose
+- Nginx and Gunicorn
+- AWS EC2 deployment
+- GitHub Actions CI/CD
+- Application monitoring and automated backups
 
-🔗 Repository: https://github.com/Wilm12/devops
+The platform is currently offline while its architecture is being revised.
 
----
-
-## 🛠️ Technical Skills
-
-### Cloud
-
-* AWS EC2
-* Route 53
-* Linux-based cloud deployments
-
-### Containers & Web Infrastructure
-
-* Docker
-* Docker Compose
-* Nginx
-* Gunicorn
-
-### Databases & Messaging
-
-* PostgreSQL
-* Redis
-
-### CI/CD
-
-* GitHub Actions
-* Git
-* GitHub
-
-### Operating Systems
-
-* Ubuntu Linux
-* Amazon Linux
-
-### Programming & Automation
-
-* Python
-* Bash/Shell Scripting
-* cloud-init
+[View source code →](https://github.com/Wilm12/Sundowns_app)
 
 ---
 
-## 📈 Current Focus
+## 🛠️ Technical Skills & Tools
 
-* CI/CD pipeline improvements
-* Infrastructure as Code
-* AWS services beyond EC2
-* Monitoring and observability
-* Production operations
-* Platform reliability engineering
-
----
-
-## 📊 GitHub Stats
-
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilm12\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilm12\&layout=compact\&theme=radical)
-
-![GitHub followers](https://img.shields.io/github/followers/Wilm12?style=social)
-
-![GitHub stars](https://img.shields.io/github/stars/Wilm12?style=social)
-
-![Profile views](https://komarev.com/ghpvc/?username=Wilm12\&color=blue)
+| Area | Technologies |
+|---|---|
+| Cloud | AWS EC2, S3, Route 53, IAM, ALB, Auto Scaling |
+| Linux & Infrastructure | Ubuntu, Amazon Linux, Vagrant, VirtualBox |
+| Automation | Bash, Shell scripting, AWS CLI |
+| Containers | Docker, Docker Compose |
+| Web Infrastructure | Nginx, Apache Tomcat, Gunicorn |
+| Backend Development | Python, Django, Django REST Framework |
+| Databases & Messaging | PostgreSQL, MariaDB, Redis, Memcached, RabbitMQ |
+| Build & CI/CD | Maven, Git, GitHub Actions |
 
 ---
 
-## 📫 Connect
+## 🎯 Current Areas of Focus
 
-💼 LinkedIn:
-[www.linkedin.com/in/william-mabelane-bb4658120](http://www.linkedin.com/in/william-mabelane-bb4658120)
-
-🐙 GitHub:
-https://github.com/Wilm12
-
-📚 Portfolio:
-https://github.com/Wilm12/devops
+- DevOps and Cloud Engineering
+- Infrastructure as Code
+- CI/CD automation
+- Infrastructure monitoring and observability
+- Platform Engineering
+- Systems design and reliability
+- Automation and process improvement
 
 ---
 
-### Current Goal
+## 🤝 Connect
 
-To build a portfolio that demonstrates practical experience across:
+- **LinkedIn:** [William Mabelane](https://www.linkedin.com/in/william-mabelane-bb4658120/)
+- **GitHub:** [Wilm12](https://github.com/Wilm12)
 
-* Linux Administration
-* Cloud Infrastructure
-* CI/CD
-* Containerization
-* Automation
-* Monitoring
-* Production Deployments
-* DevOps Engineering
+---
+
+*Building, experimenting, documenting and improving — one system at a time.*
